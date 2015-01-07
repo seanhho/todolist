@@ -1,3 +1,3 @@
-barebones
+todolist
 =========
-It's my standard application structure for my light projects..
+a simple todo list
